@@ -1,5 +1,5 @@
 <div>
-<img align="center" src="https://pin.it/2p1gRvIPC">
+<!-- <img align="center" src="https://pin.it/2p1gRvIPC"> -->
 </div>
 
 <h3 align="center">
