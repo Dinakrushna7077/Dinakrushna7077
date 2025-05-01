@@ -7,15 +7,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Web+Development;Learning+ASP+.Net+Core;Hands-on+Experience+ASP.Net+MVC+&+Web+Form;ASP+.Net+Web+Form;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
-
-<!-- Badges template - https://github.com/badges/shields -->
-
 
 ## 👨‍💻 About Me
 
@@ -46,11 +42,11 @@ My name is **Dinakrushna Mohanta** and I am a junior .NET Developer my Bachelor'
 
 ## 📈 GitHub Stats 
 
-<!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=verma-kunal&theme=xcode  -->
+
 ![](https://activity-graph.herokuapp.com/graph?username=Dinakrushna7077&theme=react-dark&hide_border=true)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Dinakrushna7077&show_icons=true&theme=tokyonight)  -->
+
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dinakrushna7077&show_icons=true&theme=algolia&hide_border=true" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinakrushna7077&theme=algolia&hide_border=true" /> -->
+
 </p>
