@@ -13,11 +13,14 @@
 
 </p>
 
+
 ## 👨‍💻 About Me
 
 My name is **Dinakrushna Mohanta** and I am a junior .NET Developer my Bachelor's in Computer Science Under Utkal University 🎓 &nbsp;&nbsp;I am a **Junior .Net Developer** & also passionate about **.Net Core**💻. I’m passionate about continuous learning and love connecting with amazing people around me.
 
-
+<p>
+	👉 <a href="https://dinakrushna7077.github.io/Dinakrushna-Portfolio/">Visit My Portfolio</a>
+</p>
 	
 
 ### Connect with me:
