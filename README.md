@@ -9,7 +9,7 @@
 
 <p align="center">
 <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=380&height=45&lines=Microsoft+Technology;Web+Development;Learning+ASP+.Net+Core;Hands-On+Experience+ASP.Net+MVC;ASP+.Net+Web+Form;MS+SQL+Server+DB;Nice+To+Meet+You+...&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=512BD4&width=380&height=45&lines=Microsoft+Technology;Web+Development;Learning+ASP+.Net+Core;Hands-On+Experience+ASP.Net+MVC;ASP+.Net+Web+Form;MS+SQL+Server+DB;Nice+To+Meet+You+...&center=true">
 
 </p>
 
@@ -17,10 +17,10 @@
 ## 👨‍💻 About Me
 
 My name is **Dinakrushna Mohanta** and I am a junior .NET Developer my Bachelor's in Computer Science Under Utkal University 🎓 &nbsp;&nbsp;I am a **Junior .Net Developer** & also passionate about **.Net Core**💻. I’m passionate about continuous learning and love connecting with amazing people around me.
-
 <p>
 	👉 <a href="https://dinakrushna7077.github.io/Dinakrushna-Portfolio/">Visit My Portfolio</a>
 </p>
+
 	
 
 ### Connect with me:
@@ -59,6 +59,13 @@ My name is **Dinakrushna Mohanta** and I am a junior .NET Developer my Bachelor'
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </h1>
+
+## What I've Learned ? 
+<h5>
+	Working with databases has taught me the value of calm thinking, patience, and good connections - lessons that apply to people too <br>
+	<br>
+	<br>
+</h5>
 
 ## 📈 GitHub Stats 
 
