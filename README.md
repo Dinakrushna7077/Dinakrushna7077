@@ -9,7 +9,7 @@
 
 <p align="center">
 <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=512BD4&width=380&height=45&lines=Microsoft+Technology;Web+Development;Learning+Angular+Js;Hands-On+Experience+ASP.Net+Core+Web+API;MS+SQL+Server+DB;PostgreSQL;Nice+To+Meet+You+...&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=512BD4&width=380&height=45&lines=Microsoft+Technology;Web+Development;Learning+Angular+Js;ASP.Net+Core+Web+API;MS+SQL+Server+DB;PostgreSQL;Nice+To+Meet+You+...&center=true">
 
 </p>
 
