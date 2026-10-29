@@ -9,14 +9,14 @@
 
 <p align="center">
 <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=512BD4&width=380&height=45&lines=Microsoft+Technology;Web+Development;Learning+ASP+.Net+Core;Hands-On+Experience+ASP.Net+MVC;ASP+.Net+Web+Form;MS+SQL+Server+DB;Nice+To+Meet+You+...&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=512BD4&width=380&height=45&lines=Microsoft+Technology;Web+Development;Learning+Angular+Js;Hands-On+Experience+ASP.Net+Core+Web+API;MS+SQL+Server+DB;PostgreSQL;Nice+To+Meet+You+...&center=true">
 
 </p>
 
 
 ## 👨‍💻 About Me
 
-I'm **Dinakrushna Mohanta** with a strong interest in .NET Framework.I'm pursuing MCA Under Biju Patnaik University of Technology (BPUT) 🎓 &nbsp;&nbsp;I want to become a **.Net Developer** 💻. I’m passionate about continuous learning and love connecting with amazing people around me.
+I'm **Dinakrushna Mohanta** with a strong interest in .NET Framework. I'm MCA Final Year Student, Under Biju Patnaik University of Technology (BPUT) 🎓 &nbsp;&nbsp;I want to become a **.Net Developer** 💻. I’m passionate about continuous learning and love connecting with amazing people around me.
 <p>
 	👉 <a href="https://dinakrushna7077.github.io/Dinakrushna-Portfolio/">Visit My Portfolio</a>
 </p>
